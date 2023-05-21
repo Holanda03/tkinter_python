@@ -14,7 +14,7 @@ def subtrair(valor1dif, valor2dif):
     subtracaoResult['text'] = result
 
 window = Tk()
-window.geometry('400x150')
+window.geometry('600x250')
 window.title('GUI em python')
 
 
